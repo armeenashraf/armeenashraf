@@ -22,4 +22,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Armeen&show_icons=true&locale=en&layout=compact" alt="armeen" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Armeen" alt="armeen" /></p>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmarketplace%2Factions%2Fsnake-game-generator-from-github-contributions&psig=AOvVaw3146yKv7Qtv7fiFUpvpLXf&ust=1764242554950000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPixiunZj5EDFQAAAAAdAAAAABAS"/>
+<img align="center" src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" />
