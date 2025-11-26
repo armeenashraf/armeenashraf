@@ -22,4 +22,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=armeen&show_icons=true&locale=en&layout=compact" alt="armeen" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=armeen&" alt="armeen" /></p>
-<img src="https://repository-images.githubusercontent.com/279995113/37c6ee80-caef-11ea-8dd5-58fe488fddb8"/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Farnabghosh.hashnode.dev%2Fadd-github-dark-snake-animation-readme&psig=AOvVaw3146yKv7Qtv7fiFUpvpLXf&ust=1764242554950000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPixiunZj5EDFQAAAAAdAAAAABAL"/>
