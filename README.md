@@ -21,5 +21,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Armeen&show_icons=true&locale=en&layout=compact" alt="armeen" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Armeen" alt="armeen" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=armeenashraf" alt="armeen" /></p>
 <img align="center" src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" />
